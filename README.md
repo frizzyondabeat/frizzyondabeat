@@ -80,4 +80,5 @@ const frizzy = {
 *// always building · always learning · always shipping*
 
 </div>
+
 ![My GitHub Game](game.gif)
